@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Kunal Shaw",
+    "occupation": "CEO of KS",
+    "description": "I eat, sleep and breathe React",
+    "image": "Dp-kunal1.jpg",
+    "bio": "Hi there! I am Kunal Shaw, A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "shawkunal497@gmail.com",
+    "phone": "+91 9123046171",
+    "address": {
+      "street": "4, Jay Bibi Lane, Belurmath",
+      "city": "Howrah-India",
+      "state": "West Bengal-India",
+      "pin-code": "711202"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCItCSSneOoOLvmc4hKdzv0A?guided_help_flow=5",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kunal.shaw.336",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kunal-shaw-963aa01b6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kunal_shaw_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/KunalShaw498",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Kalinga Institute of Industrial Technology - India",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2024",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "KS",
+        "title": "Founder and CEO",
+        "years": "February 2021 - Present",
+        "description": "I design and build user interface."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "10%"
+      },
+      {
+        "name": "Python",
+        "level": "10%"
+      },
+      {
+        "name": "Git",
+        "level": "10%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "10%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "(React JS)",
+        "category": "",
+        "image": "netflix-clone-photos.png",
+        "url": "https://netflix-clone-kunal.web.app/"
+      },
+      {
+        "title": "(React JS)",
+        "category": "",
+        "image": "SLACK-CLONE PHOTOs.png",
+        "url": "https://slack-clone-kunal.web.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Kunal is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
